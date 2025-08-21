@@ -25,9 +25,16 @@ Spring Semester 2025 - GEOG 585: Open Web Mapping
   - DESCRIPTION: This class focused on working with web services, gaining experience developing web maps with FOSS. JavaScript, HTML, and CSS were the main programming languages discussed in this class. Leaflet's API as the predominant FOSS GIS tool
     used in this course.
   - FINAL PROJECT: I developed a web map using Leaflet's API that displayed the electricity demand of Virginia's government fleets. This involved creating a custom basemap using QGIS, developing a GUI and web map using HTML, CSS, and JavaScript.
+    The final map included an interactive slider that allowed users to display the electricity demand of government fleets through outout the day.
 
 Spring Semester 2025 - GEOG 588: Analytial Approaches for Spatial Data Science
   - REFERENCE: https://www.e-education.psu.edu/geog588/
+  - INSTRUCTORS: Marcela Suarez
+  - DESCRIPTION: This course focused on spatial data science, modeling geographic phenomena, and developing coding solutions for lab exercises.
+    R was the primary programming language taught in this class using R Studios as the IDE. 
+  - FINAL PROJECT: my final project involved analyzing electric vehicle tourism economic impacts in Virginia. Estmiating the number of travelers visiting Virginia that were driving electric vehicles, analyzing the most visited tourism locations
+    to determine how many electric vehicle owners visited each tourism site each year, and estimate how much tourism revenue is being generated from electric vehicle drivers. This project was created in R Studios and utilized data provided by
+    the Virginia Tourism Corporation.
 
 Summer Semester 2025 - GEOG 489: Advanced Python Programming for GIS
   - REFERENCE: https://www.e-education.psu.edu/geog489/
