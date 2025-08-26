@@ -38,3 +38,12 @@ Spring Semester 2025 - GEOG 588: Analytial Approaches for Spatial Data Science
 
 Summer Semester 2025 - GEOG 489: Advanced Python Programming for GIS
   - REFERENCE: https://www.e-education.psu.edu/geog489/
+  - INSTRUCTORS: Jeff Kling
+  - DESCRIPTION: This course was involved learning advanced applications of Python for developing and customizing GIS software, designing user interfaces, solving complex geoprocessing tasks, and leveraging open source software. 
+    Software covered in the course includes: Esri ArcGIS Pro/arcpy, Jupyter Notebook, Esri ArcGIS API for Python, QGIS, GDAL/OGR. Additional topics included Git version control software for code management, and learn techniques 
+    for distributing Python applications to end users.
+  - FINAL PROJECT: My final project involved creating a Jupyter Notebook containing Python scripts that automated the process of updating a dataset using Census Bureau APIs and REST endpoints. The data was required for a report mandated by law my
+    agency creates every three years, the focus of this report is assessing the disproportionate impacts the Virginia Clean Economy Act creates for Historically Economically Disadvantaged Communities (HEDCs). HEDCs are a Virginia specific designation
+    for disadvantaged communities. I created this dataset based on Virginia Code definitions and update it annually using the latest demographic data from the US Cenus Bureau's American Community Survey 5-year estiamtes. By automating the web scraping,
+    data cleaning, analysis, and visualization I've decreased the points for human error and increased the efficiency of the economic impact analysis and General Assembly reporting.
+
