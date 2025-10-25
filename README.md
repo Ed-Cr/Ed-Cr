@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ed-Cr
-- 👀 I’m the Transportation Lead and GIS Analyst for the Virginia Department of Energy. I'm interested in visualizing the energy systems, automating GIS systems, and tracking the transition to a cleaner future.
-- 🌱 I’m currently learning how to make my workflows more efficient utilizing scripts to reduce tedious tasks and points for human error.
-- 💞️ I’m looking to collaborate on anything related to energy, earth sciences, or humanitarian affairs.
+- 👀 I’m the GIS Analyst and Transportation Lead for the Virginia Department of Energy. I'm interested in visualizing energy systems, automating workflows, and tracking the transition to a cleaner future. I administer my agency's sustainable transportation programs including grants for electric vehicles and alternative fuel infrastructure.
+- 🌱 I’m currently learning how to make my workflows more efficient utilizing programming and automation.
+- 💞️ I’m looking to collaborate on anything related to energy, earth sciences, the circular economy, or humanitarian affairs.
 - 📫 You can reach me at www.linkedin.com/in/edwardlawtoncronin101
 
 <!---
